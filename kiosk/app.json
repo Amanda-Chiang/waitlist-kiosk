@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Waitlist Kiosk",
+    "slug": "waitlist-kiosk",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#E25C2E"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.restaurant.waitlistkiosk"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E25C2E"
+      },
+      "package": "com.restaurant.waitlistkiosk"
+    }
+  }
+}
