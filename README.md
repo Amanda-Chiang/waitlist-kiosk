@@ -1,6 +1,5 @@
 # Restaurant Waitlist Kiosk
-
-A touch-first iPad kiosk system for restaurant waitlists. Guests walk up, enter their name, phone, and party size, and receive a text confirmation. Staff see the live queue via `GET /api/queue`.
+Basic restaurant waitlist kiosk modeled after Toast's UI. Guests enter their name, phone, and party size, and receive a text confirmation. Staff see the live queue via `GET /api/queue`.
 
 ---
 
